@@ -1,0 +1,1001 @@
+Temperature,Humidity,MQ2_Raw,MQ3_Raw,Future_AQI_Class,Fan_Speed_Percent
+23.9,54.4,132,97,Normal,30
+23.5,50.9,135,99,Normal,30
+23.8,57.9,135,82,Normal,30
+22.3,53.7,125,98,Normal,30
+23.2,58.2,136,88,Normal,30
+21.1,55.5,146,81,Normal,30
+24.1,56.3,124,95,Normal,30
+21.8,59.7,133,97,Normal,30
+23.9,51.9,130,89,Normal,30
+20.2,51.5,142,93,Normal,30
+23.7,59.7,132,86,Normal,30
+21.9,54.7,143,83,Normal,30
+20.6,54.8,129,84,Normal,30
+23.3,54.4,124,96,Normal,30
+23.5,53.1,143,96,Normal,30
+24.0,53.9,146,85,Normal,30
+23.4,51.4,144,83,Normal,30
+20.0,57.9,143,93,Normal,30
+23.5,57.8,136,89,Normal,30
+22.8,51.4,127,82,Normal,30
+23.3,54.7,145,91,Normal,30
+23.8,56.3,136,91,Normal,30
+22.8,53.0,138,80,Normal,30
+22.2,52.1,128,88,Normal,30
+24.3,52.3,144,81,Normal,30
+21.4,52.9,133,93,Normal,30
+22.8,57.8,149,93,Normal,30
+22.0,58.1,129,83,Normal,30
+20.1,50.9,143,94,Normal,30
+22.3,51.6,147,90,Normal,30
+20.8,57.0,134,88,Normal,30
+21.9,53.0,140,92,Normal,30
+21.8,50.9,130,82,Normal,30
+24.8,59.1,134,93,Normal,30
+21.3,59.7,127,95,Normal,30
+23.6,54.5,142,85,Normal,30
+20.5,59.0,123,89,Normal,30
+21.0,53.1,144,91,Normal,30
+20.9,58.6,120,95,Normal,30
+23.6,54.3,129,92,Normal,30
+22.9,56.5,138,81,Normal,30
+22.1,50.4,125,89,Normal,30
+21.6,51.4,140,82,Normal,30
+22.9,51.7,128,98,Normal,30
+22.9,53.5,138,91,Normal,30
+20.1,59.6,132,89,Normal,30
+23.9,50.8,128,89,Normal,30
+22.5,59.4,124,91,Normal,30
+22.4,52.7,148,86,Normal,30
+22.6,54.4,128,80,Normal,30
+24.1,59.0,136,82,Normal,30
+22.8,51.1,139,93,Normal,30
+21.4,56.6,141,94,Normal,30
+23.8,51.1,138,98,Normal,30
+21.2,50.4,124,91,Normal,30
+21.9,58.3,133,96,Normal,30
+21.6,59.5,139,85,Normal,30
+22.6,52.6,149,98,Normal,30
+20.8,50.4,128,88,Normal,30
+25.0,58.9,122,94,Normal,30
+24.5,58.9,123,90,Normal,30
+21.6,57.7,130,93,Normal,30
+21.9,50.9,142,94,Normal,30
+21.3,59.4,148,84,Normal,30
+20.6,58.3,146,83,Normal,30
+20.9,56.0,141,97,Normal,30
+21.0,53.1,149,95,Normal,30
+24.9,55.0,133,82,Normal,30
+20.1,52.3,128,82,Normal,30
+23.4,51.2,128,90,Normal,30
+23.5,55.8,132,83,Normal,30
+24.0,57.2,122,94,Normal,30
+20.7,51.2,137,98,Normal,30
+22.0,53.0,123,89,Normal,30
+23.3,59.6,135,85,Normal,30
+24.6,50.2,137,91,Normal,30
+23.2,51.1,141,82,Normal,30
+22.1,59.7,124,91,Normal,30
+24.7,58.0,132,89,Normal,30
+23.9,50.2,139,82,Normal,30
+24.1,58.0,133,84,Normal,30
+22.7,56.1,147,97,Normal,30
+23.0,54.1,123,87,Normal,30
+22.1,56.5,148,97,Normal,30
+22.3,52.5,128,84,Normal,30
+23.7,58.2,148,82,Normal,30
+20.3,55.9,130,82,Normal,30
+24.1,53.1,147,82,Normal,30
+24.6,51.7,124,85,Normal,30
+20.8,51.2,136,80,Normal,30
+20.3,51.7,144,81,Normal,30
+23.0,56.8,144,87,Normal,30
+21.6,55.0,142,97,Normal,30
+24.3,50.4,134,83,Normal,30
+21.2,52.5,139,91,Normal,30
+22.1,50.5,120,87,Normal,30
+22.6,51.0,122,96,Normal,30
+20.3,59.2,140,81,Normal,30
+24.2,59.0,127,99,Normal,30
+24.0,57.8,138,92,Normal,30
+23.9,51.3,144,90,Normal,30
+22.6,58.6,145,89,Normal,30
+21.9,56.4,127,85,Normal,30
+20.7,54.8,124,88,Normal,30
+21.2,53.7,135,87,Normal,30
+21.6,53.8,125,93,Normal,30
+21.5,59.5,140,98,Normal,30
+22.4,53.3,133,90,Normal,30
+24.2,56.5,126,96,Normal,30
+22.7,56.3,122,85,Normal,30
+23.7,52.0,137,93,Normal,30
+24.3,51.3,148,92,Normal,30
+20.5,57.3,137,81,Normal,30
+24.7,51.4,148,99,Normal,30
+24.0,55.9,133,95,Normal,30
+24.0,59.5,122,85,Normal,30
+23.0,51.0,135,92,Normal,30
+20.9,55.6,120,91,Normal,30
+22.3,55.2,141,95,Normal,30
+24.0,54.9,127,91,Normal,30
+24.7,51.2,143,82,Normal,30
+20.4,56.6,141,88,Normal,30
+23.9,56.7,141,86,Normal,30
+24.5,57.6,139,85,Normal,30
+21.8,53.1,129,83,Normal,30
+20.7,59.4,136,88,Normal,30
+21.9,57.3,125,91,Normal,30
+24.7,57.8,138,89,Normal,30
+21.9,59.9,120,94,Normal,30
+24.8,51.2,128,97,Normal,30
+23.2,51.2,134,91,Normal,30
+23.4,50.1,122,89,Normal,30
+24.1,53.0,149,89,Normal,30
+22.2,53.0,135,98,Normal,30
+23.9,51.1,131,99,Normal,30
+24.4,52.8,143,96,Normal,30
+20.5,60.0,120,93,Normal,30
+23.3,50.9,140,97,Normal,30
+20.1,52.4,133,82,Normal,30
+23.9,52.0,120,98,Normal,30
+23.3,50.4,120,80,Normal,30
+20.3,56.1,149,96,Normal,30
+21.2,58.5,127,81,Normal,30
+24.0,59.3,123,95,Normal,30
+23.5,58.4,133,80,Normal,30
+21.0,51.2,140,90,Normal,30
+23.7,56.3,122,97,Normal,30
+20.8,57.3,121,83,Normal,30
+21.4,57.1,135,99,Normal,30
+23.1,50.5,122,92,Normal,30
+20.2,58.8,133,94,Normal,30
+20.9,50.9,143,83,Normal,30
+24.9,54.6,136,95,Normal,30
+23.2,55.7,133,82,Normal,30
+24.7,53.0,132,91,Normal,30
+23.5,56.5,133,98,Normal,30
+20.7,55.1,140,88,Normal,30
+22.4,51.2,149,82,Normal,30
+21.4,53.0,138,88,Normal,30
+23.1,56.3,149,88,Normal,30
+22.0,52.2,148,91,Normal,30
+21.6,50.4,128,88,Normal,30
+22.4,52.3,122,91,Normal,30
+22.8,57.0,136,92,Normal,30
+23.3,53.2,127,95,Normal,30
+22.7,54.3,135,92,Normal,30
+21.8,55.1,144,94,Normal,30
+24.4,59.2,145,90,Normal,30
+22.6,58.0,127,86,Normal,30
+24.2,54.9,121,82,Normal,30
+20.4,58.4,144,81,Normal,30
+21.4,53.3,134,83,Normal,30
+21.6,57.4,147,80,Normal,30
+24.1,58.6,132,87,Normal,30
+20.8,56.0,140,82,Normal,30
+21.8,59.6,122,99,Normal,30
+23.9,53.1,143,93,Normal,30
+23.5,53.9,147,92,Normal,30
+20.1,52.1,142,90,Normal,30
+20.8,51.7,132,96,Normal,30
+24.9,55.6,126,96,Normal,30
+25.0,51.4,135,88,Normal,30
+22.0,50.8,145,95,Normal,30
+22.2,54.7,147,83,Normal,30
+20.9,59.1,148,80,Normal,30
+21.2,52.9,125,89,Normal,30
+22.9,54.9,120,81,Normal,30
+21.2,58.4,145,92,Normal,30
+23.2,56.7,143,95,Normal,30
+20.3,53.7,142,90,Normal,30
+21.7,58.4,129,89,Normal,30
+23.8,58.5,131,90,Normal,30
+24.5,55.9,123,97,Normal,30
+21.7,55.0,145,90,Normal,30
+20.5,54.0,149,98,Normal,30
+23.2,51.8,120,86,Normal,30
+21.0,50.2,138,98,Normal,30
+22.2,53.1,124,91,Normal,30
+20.0,52.8,125,94,Normal,30
+23.2,59.8,144,92,Normal,30
+22.4,57.6,139,98,Normal,30
+23.6,59.6,138,95,Normal,30
+24.3,51.1,135,94,Normal,30
+22.2,55.5,148,93,Normal,30
+24.8,59.8,124,85,Normal,30
+23.7,57.5,139,86,Normal,30
+20.6,50.4,135,95,Normal,30
+22.4,59.9,145,89,Normal,30
+24.9,54.1,122,95,Normal,30
+20.4,55.6,136,96,Normal,30
+24.6,58.2,127,80,Normal,30
+21.9,50.5,131,82,Normal,30
+23.4,57.1,139,95,Normal,30
+24.3,57.4,131,96,Normal,30
+20.2,52.3,123,92,Normal,30
+24.3,50.0,148,90,Normal,30
+23.4,50.3,142,88,Normal,30
+24.5,56.7,127,84,Normal,30
+24.3,53.5,143,97,Normal,30
+21.5,55.9,133,87,Normal,30
+21.4,58.9,145,83,Normal,30
+20.4,53.4,133,94,Normal,30
+24.0,60.0,139,85,Normal,30
+22.0,51.4,123,91,Normal,30
+25.0,57.0,142,91,Normal,30
+22.0,59.2,126,89,Normal,30
+20.7,53.7,122,81,Normal,30
+21.0,50.2,129,89,Normal,30
+23.2,53.4,133,88,Normal,30
+24.8,57.5,135,90,Normal,30
+21.4,59.0,131,84,Normal,30
+21.6,59.1,129,90,Normal,30
+23.7,55.9,138,93,Normal,30
+21.5,52.4,128,86,Normal,30
+20.8,58.7,120,85,Normal,30
+22.8,57.9,137,95,Normal,30
+22.2,54.8,148,99,Normal,30
+23.4,58.1,140,98,Normal,30
+23.9,51.9,125,91,Normal,30
+20.5,56.5,129,99,Normal,30
+22.6,54.3,124,80,Normal,30
+24.8,51.0,128,80,Normal,30
+21.2,50.7,149,89,Normal,30
+22.6,53.1,121,81,Normal,30
+20.6,53.8,143,81,Normal,30
+23.5,52.1,149,86,Normal,30
+22.0,54.2,124,80,Normal,30
+20.6,58.6,124,80,Normal,30
+22.5,54.9,120,86,Normal,30
+22.2,57.8,134,96,Normal,30
+21.3,53.2,137,84,Normal,30
+22.4,56.8,130,84,Normal,30
+21.7,59.3,134,80,Normal,30
+22.3,57.1,125,83,Normal,30
+20.2,51.4,120,98,Normal,30
+20.0,51.9,144,80,Normal,30
+20.6,56.2,134,84,Normal,30
+22.8,55.9,140,96,Normal,30
+20.0,58.5,135,92,Normal,30
+20.8,57.7,149,97,Normal,30
+21.3,59.2,136,89,Normal,30
+23.0,59.8,122,87,Normal,30
+24.1,53.2,136,95,Normal,30
+23.0,52.2,135,88,Normal,30
+21.6,50.8,145,80,Normal,30
+21.7,50.2,141,83,Normal,30
+23.6,57.1,129,94,Normal,30
+21.6,58.9,124,91,Normal,30
+20.6,51.4,140,93,Normal,30
+20.9,55.1,123,99,Normal,30
+20.0,50.2,136,99,Normal,30
+22.9,51.3,137,97,Normal,30
+24.4,55.4,124,92,Normal,30
+21.4,50.5,133,91,Normal,30
+21.5,56.6,149,96,Normal,30
+20.1,56.0,124,84,Normal,30
+24.4,52.5,138,92,Normal,30
+22.8,54.0,142,93,Normal,30
+23.6,55.7,128,95,Normal,30
+24.9,54.2,147,90,Normal,30
+20.1,58.0,130,90,Normal,30
+22.0,50.9,143,97,Normal,30
+22.0,56.8,134,82,Normal,30
+24.8,51.8,140,83,Normal,30
+24.3,59.1,127,84,Normal,30
+22.3,57.3,139,97,Normal,30
+21.9,55.2,122,94,Normal,30
+23.7,57.8,148,91,Normal,30
+20.5,59.0,140,97,Normal,30
+24.0,51.0,120,84,Normal,30
+23.7,50.2,126,99,Normal,30
+21.9,57.2,147,97,Normal,30
+22.0,53.2,130,92,Normal,30
+22.9,54.1,120,92,Normal,30
+24.7,54.7,122,83,Normal,30
+21.9,53.9,143,82,Normal,30
+20.8,56.8,121,86,Normal,30
+24.8,52.4,125,81,Normal,30
+23.8,58.8,130,85,Normal,30
+21.0,51.9,134,90,Normal,30
+26.8,68.9,180,90,Increased Ventilation,60
+26.9,79.4,189,103,Increased Ventilation,60
+27.0,66.7,188,95,Increased Ventilation,60
+25.8,76.5,194,107,Increased Ventilation,60
+29.4,79.8,219,109,Increased Ventilation,60
+29.7,66.1,202,92,Increased Ventilation,60
+25.8,73.3,204,91,Increased Ventilation,60
+29.1,74.3,202,100,Increased Ventilation,60
+25.0,68.8,206,93,Increased Ventilation,60
+29.1,73.8,211,104,Increased Ventilation,60
+25.8,70.6,236,98,Increased Ventilation,60
+28.6,76.6,173,94,Increased Ventilation,60
+29.6,66.8,188,107,Increased Ventilation,60
+24.6,69.0,184,106,Increased Ventilation,60
+25.1,71.2,174,98,Increased Ventilation,60
+25.5,75.7,180,107,Increased Ventilation,60
+29.2,70.1,212,100,Increased Ventilation,60
+25.5,68.7,193,93,Increased Ventilation,60
+29.6,78.3,170,105,Increased Ventilation,60
+27.1,72.4,206,100,Increased Ventilation,60
+27.2,71.5,198,92,Increased Ventilation,60
+24.8,79.3,177,99,Increased Ventilation,60
+29.7,67.5,199,101,Increased Ventilation,60
+25.2,68.8,239,90,Increased Ventilation,60
+24.7,78.8,170,96,Increased Ventilation,60
+27.6,72.0,247,98,Increased Ventilation,60
+27.2,67.8,237,109,Increased Ventilation,60
+28.9,76.1,199,99,Increased Ventilation,60
+24.9,78.8,224,96,Increased Ventilation,60
+24.3,70.1,174,105,Increased Ventilation,60
+27.7,76.3,220,105,Increased Ventilation,60
+25.3,78.9,212,98,Increased Ventilation,60
+27.8,65.0,214,109,Increased Ventilation,60
+25.7,65.9,201,99,Increased Ventilation,60
+24.8,67.3,233,102,Increased Ventilation,60
+26.4,78.8,221,96,Increased Ventilation,60
+28.4,71.9,194,103,Increased Ventilation,60
+27.6,72.1,219,109,Increased Ventilation,60
+26.1,67.7,177,103,Increased Ventilation,60
+29.1,65.6,249,98,Increased Ventilation,60
+29.4,76.2,192,109,Increased Ventilation,60
+27.2,74.9,183,96,Increased Ventilation,60
+29.7,70.5,228,104,Increased Ventilation,60
+26.4,73.4,181,104,Increased Ventilation,60
+27.1,78.6,196,98,Increased Ventilation,60
+27.9,70.1,225,98,Increased Ventilation,60
+26.6,66.9,236,91,Increased Ventilation,60
+28.0,74.8,228,103,Increased Ventilation,60
+24.1,69.9,234,93,Increased Ventilation,60
+28.7,77.9,230,94,Increased Ventilation,60
+28.0,66.9,239,95,Increased Ventilation,60
+24.8,69.3,192,103,Increased Ventilation,60
+29.5,68.0,246,100,Increased Ventilation,60
+28.2,79.3,216,102,Increased Ventilation,60
+25.5,74.4,175,96,Increased Ventilation,60
+29.9,71.0,205,103,Increased Ventilation,60
+24.1,71.0,226,107,Increased Ventilation,60
+27.7,71.7,184,108,Increased Ventilation,60
+29.1,69.8,238,100,Increased Ventilation,60
+26.9,74.5,235,96,Increased Ventilation,60
+25.5,78.7,246,108,Increased Ventilation,60
+29.1,79.7,171,104,Increased Ventilation,60
+28.6,76.4,178,99,Increased Ventilation,60
+26.7,68.6,218,102,Increased Ventilation,60
+25.7,68.9,206,101,Increased Ventilation,60
+26.5,68.3,222,106,Increased Ventilation,60
+29.2,67.5,199,90,Increased Ventilation,60
+26.0,77.0,180,106,Increased Ventilation,60
+24.8,76.6,218,92,Increased Ventilation,60
+26.3,80.0,192,93,Increased Ventilation,60
+24.9,71.3,202,102,Increased Ventilation,60
+29.6,79.7,220,91,Increased Ventilation,60
+24.8,76.9,189,95,Increased Ventilation,60
+29.3,75.0,206,92,Increased Ventilation,60
+29.0,67.6,182,98,Increased Ventilation,60
+27.3,72.5,193,103,Increased Ventilation,60
+27.9,79.9,171,109,Increased Ventilation,60
+27.1,66.4,224,104,Increased Ventilation,60
+29.9,69.8,193,99,Increased Ventilation,60
+26.5,65.8,199,103,Increased Ventilation,60
+26.1,76.8,224,106,Increased Ventilation,60
+28.9,71.2,201,96,Increased Ventilation,60
+28.5,77.0,183,99,Increased Ventilation,60
+29.4,67.2,215,107,Increased Ventilation,60
+24.6,67.3,194,100,Increased Ventilation,60
+24.4,65.8,188,90,Increased Ventilation,60
+26.6,76.6,177,90,Increased Ventilation,60
+27.9,77.3,197,93,Increased Ventilation,60
+24.9,77.9,191,106,Increased Ventilation,60
+27.2,77.3,173,91,Increased Ventilation,60
+26.4,76.1,217,95,Increased Ventilation,60
+28.5,72.6,213,105,Increased Ventilation,60
+26.8,70.5,202,94,Increased Ventilation,60
+25.3,76.3,246,92,Increased Ventilation,60
+24.5,67.6,182,93,Increased Ventilation,60
+28.9,71.0,225,109,Increased Ventilation,60
+24.8,74.8,184,98,Increased Ventilation,60
+26.4,78.1,246,109,Increased Ventilation,60
+29.2,67.9,219,94,Increased Ventilation,60
+27.9,69.3,190,104,Increased Ventilation,60
+27.4,73.3,200,106,Increased Ventilation,60
+28.3,65.4,212,90,Increased Ventilation,60
+27.6,72.3,219,95,Increased Ventilation,60
+26.5,76.4,178,106,Increased Ventilation,60
+27.4,70.8,230,95,Increased Ventilation,60
+27.1,69.7,206,101,Increased Ventilation,60
+28.1,66.0,198,90,Increased Ventilation,60
+25.3,78.4,231,102,Increased Ventilation,60
+25.0,78.4,177,99,Increased Ventilation,60
+26.9,79.0,207,91,Increased Ventilation,60
+25.3,73.8,207,93,Increased Ventilation,60
+28.1,68.2,241,91,Increased Ventilation,60
+25.2,71.3,211,93,Increased Ventilation,60
+24.8,77.9,184,96,Increased Ventilation,60
+26.2,65.8,212,97,Increased Ventilation,60
+25.6,74.2,203,94,Increased Ventilation,60
+29.3,78.9,225,91,Increased Ventilation,60
+24.6,66.7,206,102,Increased Ventilation,60
+24.7,77.8,247,105,Increased Ventilation,60
+28.9,72.9,181,109,Increased Ventilation,60
+24.3,71.0,174,96,Increased Ventilation,60
+29.7,73.7,243,106,Increased Ventilation,60
+25.0,79.7,196,99,Increased Ventilation,60
+27.0,79.6,246,97,Increased Ventilation,60
+26.4,73.8,207,92,Increased Ventilation,60
+25.9,67.9,248,92,Increased Ventilation,60
+29.2,73.8,216,97,Increased Ventilation,60
+26.5,71.5,234,102,Increased Ventilation,60
+29.6,79.0,228,97,Increased Ventilation,60
+26.0,71.8,247,101,Increased Ventilation,60
+26.8,74.9,198,101,Increased Ventilation,60
+25.9,70.2,175,97,Increased Ventilation,60
+24.6,67.5,210,104,Increased Ventilation,60
+26.3,68.2,232,101,Increased Ventilation,60
+28.5,68.9,212,106,Increased Ventilation,60
+29.6,74.0,178,103,Increased Ventilation,60
+24.3,79.2,237,97,Increased Ventilation,60
+29.5,73.7,248,90,Increased Ventilation,60
+24.2,75.2,243,101,Increased Ventilation,60
+24.2,76.2,182,107,Increased Ventilation,60
+27.0,72.0,206,90,Increased Ventilation,60
+28.7,70.0,240,107,Increased Ventilation,60
+26.2,73.5,174,95,Increased Ventilation,60
+25.0,76.6,181,99,Increased Ventilation,60
+27.2,79.5,176,109,Increased Ventilation,60
+29.1,67.8,244,101,Increased Ventilation,60
+29.3,70.6,179,92,Increased Ventilation,60
+28.9,72.2,189,101,Increased Ventilation,60
+29.9,74.1,242,98,Increased Ventilation,60
+26.2,71.3,180,92,Increased Ventilation,60
+28.8,77.6,175,95,Increased Ventilation,60
+25.8,78.1,175,90,Increased Ventilation,60
+27.1,72.0,204,103,Increased Ventilation,60
+25.0,75.0,179,97,Increased Ventilation,60
+27.7,65.6,216,99,Increased Ventilation,60
+27.1,68.2,205,92,Increased Ventilation,60
+25.1,70.2,184,91,Increased Ventilation,60
+29.7,71.1,187,106,Increased Ventilation,60
+29.8,66.2,216,103,Increased Ventilation,60
+29.2,74.5,198,98,Increased Ventilation,60
+26.6,65.5,186,100,Increased Ventilation,60
+30.0,79.4,222,90,Increased Ventilation,60
+28.2,69.5,211,108,Increased Ventilation,60
+24.3,79.0,230,106,Increased Ventilation,60
+24.7,65.9,170,106,Increased Ventilation,60
+24.9,73.0,175,108,Increased Ventilation,60
+27.4,71.0,233,98,Increased Ventilation,60
+24.4,79.5,193,96,Increased Ventilation,60
+25.1,69.3,185,109,Increased Ventilation,60
+24.6,78.0,180,104,Increased Ventilation,60
+29.0,79.6,219,106,Increased Ventilation,60
+29.7,66.9,243,105,Increased Ventilation,60
+27.3,73.2,247,107,Increased Ventilation,60
+29.8,75.6,231,99,Increased Ventilation,60
+26.7,70.8,192,97,Increased Ventilation,60
+26.3,66.3,227,91,Increased Ventilation,60
+28.7,71.7,185,108,Increased Ventilation,60
+27.7,65.5,195,93,Increased Ventilation,60
+25.2,79.6,235,94,Increased Ventilation,60
+27.1,79.0,239,109,Increased Ventilation,60
+25.4,65.7,198,93,Increased Ventilation,60
+24.4,67.9,181,101,Increased Ventilation,60
+29.5,73.1,222,102,Increased Ventilation,60
+25.2,77.0,239,102,Increased Ventilation,60
+29.2,79.2,180,96,Increased Ventilation,60
+24.5,68.4,202,98,Increased Ventilation,60
+29.7,70.7,196,105,Increased Ventilation,60
+27.2,67.7,219,96,Increased Ventilation,60
+27.9,75.1,182,98,Increased Ventilation,60
+25.4,75.8,242,93,Increased Ventilation,60
+29.6,67.8,235,92,Increased Ventilation,60
+27.0,72.8,172,100,Increased Ventilation,60
+26.6,79.9,177,99,Increased Ventilation,60
+26.9,71.3,247,91,Increased Ventilation,60
+27.6,68.4,227,102,Increased Ventilation,60
+24.3,79.7,171,99,Increased Ventilation,60
+29.4,72.1,227,91,Increased Ventilation,60
+28.9,74.7,229,105,Increased Ventilation,60
+26.6,74.6,185,107,Increased Ventilation,60
+27.8,70.2,204,103,Increased Ventilation,60
+28.0,79.4,226,97,Increased Ventilation,60
+26.6,77.2,199,100,Increased Ventilation,60
+28.4,71.9,212,94,Increased Ventilation,60
+28.5,67.0,200,93,Increased Ventilation,60
+27.8,76.2,187,107,Increased Ventilation,60
+25.6,66.7,177,109,Increased Ventilation,60
+24.9,68.0,201,95,Increased Ventilation,60
+27.2,78.2,228,105,Increased Ventilation,60
+28.2,67.6,230,97,Increased Ventilation,60
+26.9,67.2,201,95,Increased Ventilation,60
+25.8,66.9,226,101,Increased Ventilation,60
+28.2,66.0,203,99,Increased Ventilation,60
+28.7,76.2,178,106,Increased Ventilation,60
+26.7,77.3,192,94,Increased Ventilation,60
+26.2,67.6,188,99,Increased Ventilation,60
+26.4,68.6,242,105,Increased Ventilation,60
+25.9,69.1,199,92,Increased Ventilation,60
+26.6,69.5,238,97,Increased Ventilation,60
+25.4,76.4,174,108,Increased Ventilation,60
+27.0,74.6,171,107,Increased Ventilation,60
+30.0,74.2,205,107,Increased Ventilation,60
+29.5,76.9,198,99,Increased Ventilation,60
+24.5,65.2,216,99,Increased Ventilation,60
+27.0,71.1,206,101,Increased Ventilation,60
+27.3,77.5,249,92,Increased Ventilation,60
+25.4,76.9,175,106,Increased Ventilation,60
+30.0,78.1,179,107,Increased Ventilation,60
+25.9,71.0,229,95,Increased Ventilation,60
+27.6,79.1,204,96,Increased Ventilation,60
+27.3,69.4,187,93,Increased Ventilation,60
+25.2,65.9,220,108,Increased Ventilation,60
+26.4,77.5,170,103,Increased Ventilation,60
+25.2,67.6,188,106,Increased Ventilation,60
+25.6,78.7,231,92,Increased Ventilation,60
+28.1,77.2,203,94,Increased Ventilation,60
+25.7,79.5,214,95,Increased Ventilation,60
+26.6,71.5,225,95,Increased Ventilation,60
+28.7,76.6,216,97,Increased Ventilation,60
+29.0,68.2,224,90,Increased Ventilation,60
+27.4,79.9,240,90,Increased Ventilation,60
+25.2,72.8,228,106,Increased Ventilation,60
+24.5,70.9,197,104,Increased Ventilation,60
+26.2,67.8,183,93,Increased Ventilation,60
+26.5,72.2,229,107,Increased Ventilation,60
+27.9,75.4,180,109,Increased Ventilation,60
+26.5,71.1,189,108,Increased Ventilation,60
+25.5,75.9,176,105,Increased Ventilation,60
+24.6,72.0,180,94,Increased Ventilation,60
+25.1,72.0,189,95,Increased Ventilation,60
+28.8,78.6,213,106,Increased Ventilation,60
+31.2,35.5,515,153,Hazardous Smoke,100
+29.6,48.9,732,172,Hazardous Smoke,100
+30.7,46.9,797,171,Hazardous Smoke,100
+28.4,33.2,882,203,Hazardous Smoke,100
+37.4,34.2,666,239,Hazardous Smoke,100
+38.2,47.0,489,149,Hazardous Smoke,100
+28.6,47.3,747,159,Hazardous Smoke,100
+35.4,45.2,781,136,Hazardous Smoke,100
+37.4,48.8,508,214,Hazardous Smoke,100
+33.3,47.5,553,188,Hazardous Smoke,100
+36.9,46.4,538,217,Hazardous Smoke,100
+31.5,32.4,992,150,Hazardous Smoke,100
+34.0,40.1,727,195,Hazardous Smoke,100
+32.7,45.7,978,238,Hazardous Smoke,100
+31.0,44.7,609,208,Hazardous Smoke,100
+34.3,33.8,635,223,Hazardous Smoke,100
+39.5,44.4,897,239,Hazardous Smoke,100
+39.8,37.0,645,202,Hazardous Smoke,100
+33.7,49.7,572,132,Hazardous Smoke,100
+32.9,47.5,503,156,Hazardous Smoke,100
+37.5,37.7,785,247,Hazardous Smoke,100
+38.6,36.0,587,220,Hazardous Smoke,100
+32.0,42.1,611,205,Hazardous Smoke,100
+38.0,30.5,700,148,Hazardous Smoke,100
+36.5,41.3,782,184,Hazardous Smoke,100
+28.7,37.0,900,232,Hazardous Smoke,100
+28.4,37.9,679,242,Hazardous Smoke,100
+28.6,45.0,746,153,Hazardous Smoke,100
+38.4,44.9,854,235,Hazardous Smoke,100
+30.6,40.6,675,221,Hazardous Smoke,100
+30.9,34.6,674,123,Hazardous Smoke,100
+39.5,44.2,509,202,Hazardous Smoke,100
+36.9,40.6,506,181,Hazardous Smoke,100
+33.4,42.8,620,146,Hazardous Smoke,100
+38.7,46.2,481,165,Hazardous Smoke,100
+34.9,32.8,594,246,Hazardous Smoke,100
+38.8,48.4,904,163,Hazardous Smoke,100
+30.0,34.2,523,131,Hazardous Smoke,100
+29.4,31.4,483,248,Hazardous Smoke,100
+28.9,32.7,740,227,Hazardous Smoke,100
+35.0,45.5,470,202,Hazardous Smoke,100
+38.6,42.8,691,187,Hazardous Smoke,100
+36.6,38.9,837,164,Hazardous Smoke,100
+33.6,33.4,681,223,Hazardous Smoke,100
+31.1,33.1,865,152,Hazardous Smoke,100
+38.1,36.6,974,209,Hazardous Smoke,100
+38.3,31.6,934,219,Hazardous Smoke,100
+31.7,34.3,698,209,Hazardous Smoke,100
+38.9,35.9,991,193,Hazardous Smoke,100
+31.5,41.1,606,200,Hazardous Smoke,100
+35.3,42.5,958,137,Hazardous Smoke,100
+36.3,43.5,757,208,Hazardous Smoke,100
+28.9,38.9,478,173,Hazardous Smoke,100
+29.0,34.4,631,177,Hazardous Smoke,100
+36.9,34.7,914,227,Hazardous Smoke,100
+34.5,45.2,978,181,Hazardous Smoke,100
+34.0,42.4,846,240,Hazardous Smoke,100
+33.9,40.6,803,198,Hazardous Smoke,100
+36.9,31.4,675,187,Hazardous Smoke,100
+33.8,48.4,634,184,Hazardous Smoke,100
+33.6,49.2,732,178,Hazardous Smoke,100
+30.2,34.3,529,132,Hazardous Smoke,100
+28.0,38.6,651,220,Hazardous Smoke,100
+36.8,30.6,568,194,Hazardous Smoke,100
+29.9,48.8,981,141,Hazardous Smoke,100
+35.5,36.5,667,203,Hazardous Smoke,100
+32.9,45.2,534,149,Hazardous Smoke,100
+38.9,40.0,536,218,Hazardous Smoke,100
+38.2,50.0,893,149,Hazardous Smoke,100
+31.4,35.0,825,154,Hazardous Smoke,100
+35.0,49.9,454,248,Hazardous Smoke,100
+34.3,42.8,846,231,Hazardous Smoke,100
+39.2,34.1,658,188,Hazardous Smoke,100
+38.0,36.1,966,177,Hazardous Smoke,100
+39.8,49.7,955,237,Hazardous Smoke,100
+37.6,35.4,470,161,Hazardous Smoke,100
+34.6,41.2,545,185,Hazardous Smoke,100
+35.6,38.2,823,217,Hazardous Smoke,100
+32.0,36.6,740,136,Hazardous Smoke,100
+30.3,47.0,991,178,Hazardous Smoke,100
+30.7,45.2,991,192,Hazardous Smoke,100
+28.3,36.3,511,143,Hazardous Smoke,100
+35.9,35.5,827,128,Hazardous Smoke,100
+28.7,41.6,892,122,Hazardous Smoke,100
+38.2,33.1,735,198,Hazardous Smoke,100
+33.3,38.9,660,129,Hazardous Smoke,100
+37.6,47.9,519,121,Hazardous Smoke,100
+30.1,48.1,635,191,Hazardous Smoke,100
+29.8,34.1,894,205,Hazardous Smoke,100
+36.7,42.0,977,243,Hazardous Smoke,100
+33.9,36.0,956,182,Hazardous Smoke,100
+32.3,34.5,853,125,Hazardous Smoke,100
+32.2,44.2,647,122,Hazardous Smoke,100
+33.3,42.9,586,199,Hazardous Smoke,100
+37.3,46.2,571,212,Hazardous Smoke,100
+29.2,39.5,791,198,Hazardous Smoke,100
+30.9,30.9,925,149,Hazardous Smoke,100
+33.5,38.3,495,142,Hazardous Smoke,100
+37.9,48.5,689,146,Hazardous Smoke,100
+39.2,30.4,616,240,Hazardous Smoke,100
+39.4,30.2,930,219,Hazardous Smoke,100
+39.6,48.1,577,246,Hazardous Smoke,100
+34.6,31.6,486,230,Hazardous Smoke,100
+35.4,42.3,714,174,Hazardous Smoke,100
+34.9,33.1,814,216,Hazardous Smoke,100
+28.9,44.6,550,230,Hazardous Smoke,100
+33.7,40.2,749,160,Hazardous Smoke,100
+39.6,44.7,462,167,Hazardous Smoke,100
+30.1,34.4,850,180,Hazardous Smoke,100
+39.3,44.7,503,147,Hazardous Smoke,100
+38.3,37.6,559,230,Hazardous Smoke,100
+30.9,42.4,712,240,Hazardous Smoke,100
+31.1,43.9,804,248,Hazardous Smoke,100
+29.8,31.8,819,207,Hazardous Smoke,100
+32.1,31.4,678,181,Hazardous Smoke,100
+37.0,35.7,731,163,Hazardous Smoke,100
+38.1,40.4,624,229,Hazardous Smoke,100
+33.4,49.1,588,204,Hazardous Smoke,100
+29.4,47.7,829,183,Hazardous Smoke,100
+29.7,33.1,552,209,Hazardous Smoke,100
+28.6,35.7,700,138,Hazardous Smoke,100
+33.3,38.3,747,187,Hazardous Smoke,100
+31.4,30.6,826,199,Hazardous Smoke,100
+32.5,43.0,867,134,Hazardous Smoke,100
+28.2,35.0,634,179,Hazardous Smoke,100
+32.7,46.2,453,169,Hazardous Smoke,100
+34.4,41.9,529,122,Hazardous Smoke,100
+34.2,36.9,919,174,Hazardous Smoke,100
+29.2,45.7,908,242,Hazardous Smoke,100
+28.3,42.0,585,219,Hazardous Smoke,100
+31.4,45.8,725,202,Hazardous Smoke,100
+39.1,49.6,855,125,Hazardous Smoke,100
+33.3,40.9,744,139,Hazardous Smoke,100
+32.0,49.8,554,122,Hazardous Smoke,100
+33.4,46.9,731,162,Hazardous Smoke,100
+33.8,49.6,610,181,Hazardous Smoke,100
+29.6,31.0,849,242,Hazardous Smoke,100
+31.2,40.1,475,131,Hazardous Smoke,100
+33.1,48.6,851,185,Hazardous Smoke,100
+39.7,35.2,934,185,Hazardous Smoke,100
+38.3,39.0,520,156,Hazardous Smoke,100
+38.3,37.8,631,188,Hazardous Smoke,100
+39.7,33.7,838,159,Hazardous Smoke,100
+28.4,37.8,759,146,Hazardous Smoke,100
+36.2,33.6,728,207,Hazardous Smoke,100
+31.2,37.1,670,165,Hazardous Smoke,100
+36.6,39.3,809,166,Hazardous Smoke,100
+38.2,41.4,596,147,Hazardous Smoke,100
+38.8,36.9,857,125,Hazardous Smoke,100
+33.9,32.5,973,151,Hazardous Smoke,100
+37.0,32.6,613,224,Hazardous Smoke,100
+39.2,42.1,533,212,Hazardous Smoke,100
+36.6,49.9,718,164,Hazardous Smoke,100
+30.0,40.4,903,189,Hazardous Smoke,100
+30.1,42.3,641,121,Hazardous Smoke,100
+39.1,35.3,592,125,Hazardous Smoke,100
+29.3,34.8,634,155,Hazardous Smoke,100
+28.4,35.6,600,145,Hazardous Smoke,100
+32.5,37.7,989,164,Hazardous Smoke,100
+31.9,31.8,782,123,Hazardous Smoke,100
+30.4,45.1,779,248,Hazardous Smoke,100
+39.1,40.1,889,189,Hazardous Smoke,100
+31.8,45.5,487,219,Hazardous Smoke,100
+38.1,47.9,543,176,Hazardous Smoke,100
+37.2,46.1,870,160,Hazardous Smoke,100
+39.2,31.9,959,249,Hazardous Smoke,100
+37.2,31.9,602,205,Hazardous Smoke,100
+28.4,45.4,856,223,Hazardous Smoke,100
+35.2,47.1,641,132,Hazardous Smoke,100
+31.3,38.3,918,125,Hazardous Smoke,100
+33.4,35.3,984,171,Hazardous Smoke,100
+33.1,47.6,551,155,Hazardous Smoke,100
+38.7,38.5,866,162,Hazardous Smoke,100
+34.0,38.4,707,153,Hazardous Smoke,100
+34.0,33.0,871,165,Hazardous Smoke,100
+34.8,38.3,715,227,Hazardous Smoke,100
+31.1,49.4,454,222,Hazardous Smoke,100
+39.6,46.8,541,138,Hazardous Smoke,100
+34.3,33.4,574,226,Hazardous Smoke,100
+35.0,35.3,541,240,Hazardous Smoke,100
+29.4,41.3,660,213,Hazardous Smoke,100
+28.7,42.0,549,226,Hazardous Smoke,100
+28.8,40.2,612,153,Hazardous Smoke,100
+36.0,32.4,669,241,Hazardous Smoke,100
+38.7,33.7,593,162,Hazardous Smoke,100
+35.1,44.4,720,177,Hazardous Smoke,100
+29.9,32.1,846,249,Hazardous Smoke,100
+33.5,47.5,591,182,Hazardous Smoke,100
+39.1,31.8,944,134,Hazardous Smoke,100
+39.2,48.9,639,160,Hazardous Smoke,100
+32.3,39.0,855,174,Hazardous Smoke,100
+30.3,48.0,922,152,Hazardous Smoke,100
+36.5,31.3,775,125,Hazardous Smoke,100
+35.8,36.8,773,205,Hazardous Smoke,100
+29.1,49.0,938,217,Hazardous Smoke,100
+38.5,32.7,917,161,Hazardous Smoke,100
+32.4,40.7,707,158,Hazardous Smoke,100
+28.7,37.4,748,153,Hazardous Smoke,100
+32.6,33.9,833,154,Hazardous Smoke,100
+35.5,37.8,584,164,Hazardous Smoke,100
+34.4,45.4,459,169,Hazardous Smoke,100
+35.1,49.3,614,187,Hazardous Smoke,100
+38.9,45.9,643,127,Hazardous Smoke,100
+33.1,44.0,746,248,Hazardous Smoke,100
+33.5,31.9,694,193,Hazardous Smoke,100
+29.5,45.0,466,185,Hazardous Smoke,100
+36.7,47.4,778,201,Hazardous Smoke,100
+35.3,45.1,774,229,Hazardous Smoke,100
+38.4,30.7,504,192,Hazardous Smoke,100
+30.6,47.2,862,204,Hazardous Smoke,100
+33.0,33.8,943,164,Hazardous Smoke,100
+36.4,34.1,830,132,Hazardous Smoke,100
+38.7,45.3,495,145,Hazardous Smoke,100
+31.5,49.4,540,212,Hazardous Smoke,100
+35.3,36.2,783,158,Hazardous Smoke,100
+28.5,44.6,789,125,Hazardous Smoke,100
+28.1,44.6,993,243,Hazardous Smoke,100
+37.1,39.4,582,183,Hazardous Smoke,100
+33.2,36.5,882,187,Hazardous Smoke,100
+33.2,42.0,798,236,Hazardous Smoke,100
+39.9,31.6,665,170,Hazardous Smoke,100
+30.2,37.0,531,157,Hazardous Smoke,100
+30.1,45.3,903,184,Hazardous Smoke,100
+39.0,30.7,974,128,Hazardous Smoke,100
+32.8,31.6,611,154,Hazardous Smoke,100
+39.8,34.2,517,145,Hazardous Smoke,100
+34.9,40.0,907,195,Hazardous Smoke,100
+32.5,46.5,618,138,Hazardous Smoke,100
+33.1,43.8,565,232,Hazardous Smoke,100
+32.4,41.4,809,128,Hazardous Smoke,100
+30.0,31.4,734,214,Hazardous Smoke,100
+31.5,44.5,450,128,Hazardous Smoke,100
+38.4,46.7,491,131,Hazardous Smoke,100
+28.3,31.1,749,230,Hazardous Smoke,100
+30.8,41.0,872,175,Hazardous Smoke,100
+37.5,39.8,465,185,Hazardous Smoke,100
+39.9,33.0,764,227,Hazardous Smoke,100
+28.6,39.6,504,235,Hazardous Smoke,100
+36.0,43.7,869,154,Hazardous Smoke,100
+33.0,37.3,642,187,Hazardous Smoke,100
+33.5,36.5,832,159,Hazardous Smoke,100
+31.0,37.3,472,139,Hazardous Smoke,100
+38.5,42.0,765,137,Hazardous Smoke,100
+36.3,47.0,503,150,Hazardous Smoke,100
+29.8,30.2,512,126,Hazardous Smoke,100
+37.1,49.7,598,125,Hazardous Smoke,100
+37.0,31.4,917,196,Hazardous Smoke,100
+37.1,37.2,758,121,Hazardous Smoke,100
+35.1,49.8,984,153,Hazardous Smoke,100
+30.3,32.5,665,192,Hazardous Smoke,100
+23.0,57.9,164,588,Chemical Vapor,80
+24.5,58.1,140,361,Chemical Vapor,80
+22.8,53.0,173,398,Chemical Vapor,80
+24.7,56.8,175,688,Chemical Vapor,80
+22.1,55.4,175,469,Chemical Vapor,80
+20.5,52.4,178,487,Chemical Vapor,80
+20.3,59.3,168,305,Chemical Vapor,80
+21.0,57.7,171,293,Chemical Vapor,80
+24.5,57.3,135,280,Chemical Vapor,80
+23.5,56.3,143,590,Chemical Vapor,80
+24.1,57.2,173,513,Chemical Vapor,80
+21.6,57.0,139,680,Chemical Vapor,80
+22.9,56.6,150,446,Chemical Vapor,80
+23.8,60.0,154,322,Chemical Vapor,80
+21.0,55.4,146,466,Chemical Vapor,80
+22.9,50.5,154,431,Chemical Vapor,80
+22.9,55.9,147,545,Chemical Vapor,80
+23.6,56.4,144,605,Chemical Vapor,80
+23.1,55.4,131,522,Chemical Vapor,80
+20.5,52.7,172,487,Chemical Vapor,80
+24.4,56.8,146,290,Chemical Vapor,80
+23.0,52.2,130,580,Chemical Vapor,80
+24.1,55.9,178,516,Chemical Vapor,80
+21.7,54.5,171,638,Chemical Vapor,80
+23.6,55.2,143,415,Chemical Vapor,80
+20.3,51.4,148,336,Chemical Vapor,80
+21.9,59.4,149,477,Chemical Vapor,80
+21.2,51.1,141,402,Chemical Vapor,80
+24.1,53.8,171,597,Chemical Vapor,80
+24.0,51.1,176,523,Chemical Vapor,80
+24.8,54.0,139,272,Chemical Vapor,80
+24.6,58.8,162,484,Chemical Vapor,80
+22.8,52.1,167,618,Chemical Vapor,80
+22.5,50.3,161,557,Chemical Vapor,80
+24.8,58.3,165,374,Chemical Vapor,80
+20.3,59.4,162,671,Chemical Vapor,80
+22.7,56.4,174,458,Chemical Vapor,80
+22.1,51.2,142,293,Chemical Vapor,80
+21.2,58.4,148,315,Chemical Vapor,80
+21.1,55.5,179,346,Chemical Vapor,80
+20.8,55.6,170,415,Chemical Vapor,80
+23.1,59.1,151,317,Chemical Vapor,80
+24.6,59.0,177,623,Chemical Vapor,80
+23.2,56.2,160,537,Chemical Vapor,80
+23.5,50.2,131,681,Chemical Vapor,80
+22.9,57.8,137,419,Chemical Vapor,80
+20.1,55.1,145,478,Chemical Vapor,80
+22.2,53.4,171,362,Chemical Vapor,80
+22.6,53.8,132,686,Chemical Vapor,80
+20.9,53.2,176,382,Chemical Vapor,80
+22.7,55.0,135,539,Chemical Vapor,80
+24.8,52.9,157,561,Chemical Vapor,80
+20.1,52.6,142,458,Chemical Vapor,80
+20.2,56.2,160,555,Chemical Vapor,80
+23.7,55.2,163,521,Chemical Vapor,80
+22.0,50.4,166,294,Chemical Vapor,80
+23.3,60.0,148,257,Chemical Vapor,80
+22.8,57.5,153,622,Chemical Vapor,80
+22.7,56.2,143,563,Chemical Vapor,80
+24.3,51.2,136,666,Chemical Vapor,80
+20.1,58.4,147,284,Chemical Vapor,80
+21.0,50.0,160,450,Chemical Vapor,80
+21.7,51.7,140,452,Chemical Vapor,80
+22.0,57.7,161,651,Chemical Vapor,80
+23.3,51.2,170,382,Chemical Vapor,80
+24.6,50.9,148,433,Chemical Vapor,80
+24.7,59.5,151,435,Chemical Vapor,80
+23.3,54.6,165,589,Chemical Vapor,80
+20.2,51.4,153,526,Chemical Vapor,80
+21.2,56.7,132,408,Chemical Vapor,80
+24.4,58.2,156,471,Chemical Vapor,80
+23.9,52.7,136,472,Chemical Vapor,80
+21.0,58.6,157,620,Chemical Vapor,80
+24.5,58.8,175,681,Chemical Vapor,80
+21.1,59.3,175,507,Chemical Vapor,80
+22.1,55.6,147,404,Chemical Vapor,80
+21.4,52.4,179,287,Chemical Vapor,80
+22.5,58.9,157,533,Chemical Vapor,80
+22.6,54.3,142,458,Chemical Vapor,80
+21.0,58.2,148,339,Chemical Vapor,80
+23.6,57.6,179,508,Chemical Vapor,80
+24.3,52.9,171,646,Chemical Vapor,80
+23.6,58.0,130,549,Chemical Vapor,80
+24.2,59.9,138,439,Chemical Vapor,80
+24.1,57.4,133,453,Chemical Vapor,80
+24.6,53.9,150,504,Chemical Vapor,80
+20.5,52.3,145,628,Chemical Vapor,80
+22.0,53.9,158,360,Chemical Vapor,80
+22.5,58.1,149,652,Chemical Vapor,80
+20.4,55.7,149,460,Chemical Vapor,80
+23.1,54.5,144,429,Chemical Vapor,80
+22.4,55.8,141,475,Chemical Vapor,80
+22.4,58.2,164,585,Chemical Vapor,80
+21.7,58.0,159,634,Chemical Vapor,80
+20.8,55.8,163,378,Chemical Vapor,80
+23.7,52.4,167,552,Chemical Vapor,80
+21.3,55.1,138,676,Chemical Vapor,80
+21.9,58.8,141,694,Chemical Vapor,80
+24.4,51.7,170,618,Chemical Vapor,80
+20.2,53.9,176,641,Chemical Vapor,80
+23.4,55.3,131,424,Chemical Vapor,80
+24.1,57.1,131,460,Chemical Vapor,80
+24.5,52.3,147,326,Chemical Vapor,80
+23.2,59.7,133,361,Chemical Vapor,80
+21.2,51.4,131,637,Chemical Vapor,80
+21.1,55.0,156,695,Chemical Vapor,80
+20.1,55.6,155,480,Chemical Vapor,80
+24.0,53.6,163,434,Chemical Vapor,80
+20.8,57.4,172,603,Chemical Vapor,80
+20.7,53.9,155,651,Chemical Vapor,80
+20.0,53.0,139,499,Chemical Vapor,80
+21.7,52.7,159,457,Chemical Vapor,80
+20.9,55.3,142,568,Chemical Vapor,80
+22.9,50.9,145,629,Chemical Vapor,80
+20.9,57.6,173,412,Chemical Vapor,80
+23.9,52.1,168,333,Chemical Vapor,80
+22.5,50.3,177,351,Chemical Vapor,80
+23.6,58.4,135,286,Chemical Vapor,80
+24.4,58.0,175,641,Chemical Vapor,80
+23.5,56.7,158,486,Chemical Vapor,80
+23.3,59.2,160,295,Chemical Vapor,80
+21.6,50.7,159,675,Chemical Vapor,80
+22.2,56.8,132,628,Chemical Vapor,80
+25.0,51.6,144,609,Chemical Vapor,80
+24.4,50.5,140,589,Chemical Vapor,80
+21.8,56.5,157,481,Chemical Vapor,80
+21.3,51.4,153,302,Chemical Vapor,80
+20.5,56.4,141,408,Chemical Vapor,80
+21.1,56.9,141,559,Chemical Vapor,80
+22.7,59.3,152,423,Chemical Vapor,80
+24.2,50.8,152,582,Chemical Vapor,80
+24.9,58.5,134,510,Chemical Vapor,80
+23.1,53.5,156,555,Chemical Vapor,80
+23.9,60.0,130,471,Chemical Vapor,80
+20.3,56.0,160,303,Chemical Vapor,80
+21.2,53.3,158,578,Chemical Vapor,80
+20.9,51.7,131,270,Chemical Vapor,80
+24.4,56.9,150,267,Chemical Vapor,80
+20.1,55.6,156,377,Chemical Vapor,80
+23.0,54.3,135,665,Chemical Vapor,80
+21.4,56.8,160,274,Chemical Vapor,80
+24.8,59.8,176,582,Chemical Vapor,80
+22.3,52.2,171,615,Chemical Vapor,80
+23.7,52.2,173,453,Chemical Vapor,80
+22.3,58.3,167,557,Chemical Vapor,80
+23.2,56.5,154,371,Chemical Vapor,80
+21.9,50.5,139,604,Chemical Vapor,80
+22.2,54.4,167,360,Chemical Vapor,80
+21.0,55.9,174,354,Chemical Vapor,80
+20.3,57.7,165,419,Chemical Vapor,80
+21.9,54.3,145,616,Chemical Vapor,80
+21.6,57.6,143,672,Chemical Vapor,80
+23.3,54.3,139,586,Chemical Vapor,80
+22.3,54.1,164,486,Chemical Vapor,80
+21.6,51.0,150,436,Chemical Vapor,80
+20.6,54.1,162,500,Chemical Vapor,80
+24.7,50.4,167,529,Chemical Vapor,80
+22.3,50.2,151,362,Chemical Vapor,80
+20.6,52.2,135,373,Chemical Vapor,80
+22.0,55.3,156,250,Chemical Vapor,80
+20.8,50.9,145,497,Chemical Vapor,80
+21.6,55.5,146,349,Chemical Vapor,80
+20.1,59.4,149,298,Chemical Vapor,80
+20.6,51.5,174,691,Chemical Vapor,80
+23.1,56.1,157,694,Chemical Vapor,80
+20.4,59.7,150,341,Chemical Vapor,80
+23.1,54.2,136,422,Chemical Vapor,80
+24.7,51.5,151,698,Chemical Vapor,80
+21.9,56.5,144,685,Chemical Vapor,80
+20.3,59.2,149,505,Chemical Vapor,80
+23.5,51.5,155,490,Chemical Vapor,80
+23.4,54.6,146,319,Chemical Vapor,80
+21.2,58.5,173,265,Chemical Vapor,80
+23.5,60.0,157,253,Chemical Vapor,80
+20.8,56.7,160,276,Chemical Vapor,80
+22.9,56.8,150,514,Chemical Vapor,80
+21.8,57.0,155,517,Chemical Vapor,80
+21.0,55.6,165,646,Chemical Vapor,80
+23.3,54.7,166,394,Chemical Vapor,80
+20.4,52.4,162,255,Chemical Vapor,80
+24.9,52.2,136,616,Chemical Vapor,80
+20.8,52.8,167,438,Chemical Vapor,80
+21.6,58.0,131,680,Chemical Vapor,80
+24.4,51.5,134,599,Chemical Vapor,80
+20.7,59.1,169,483,Chemical Vapor,80
+21.7,51.6,156,255,Chemical Vapor,80
+21.2,59.1,137,608,Chemical Vapor,80
+24.8,51.0,167,516,Chemical Vapor,80
+21.3,55.4,146,394,Chemical Vapor,80
+21.4,55.7,179,332,Chemical Vapor,80
+22.3,56.5,142,307,Chemical Vapor,80
+24.7,55.1,150,618,Chemical Vapor,80
+23.3,57.1,140,572,Chemical Vapor,80
+24.4,56.1,171,375,Chemical Vapor,80
+20.5,56.1,139,279,Chemical Vapor,80
+21.2,50.6,178,496,Chemical Vapor,80
+20.8,56.1,160,605,Chemical Vapor,80
+24.1,53.1,175,497,Chemical Vapor,80
+22.8,54.7,171,544,Chemical Vapor,80
+21.1,59.8,167,294,Chemical Vapor,80

@@ -1,0 +1,58 @@
+https://github.com/bidipta18das-glitch/TechnicalPaperTemplate_SJU.git
+Main pipeline command src/run_pipeline.py --mode synth 
+Title: Tunnel Exhaust System Project -ML model for predicting air quality in tunnels
+Description: This project focuses on developing a machine learning model to 
+predict air quality in tunnels based on various environmental and 
+traffic-related features. The model will help in monitoring and managing 
+air quality, ensuring the safety and health of individuals using the tunnels.
+
+Node-RED can:
+Display graphs
+Save data to CSV
+Save data to database
+Send alerts
+Trigger fan
+Feed data to ML model
+
+MQ2
+MQ3
+DHT11
+  |
+  |
+ESP8266
+  |
+ MQTT
+  |
+Mosquitto Broker
+  |
+Node-RED
+  |
+CSV Database
+  |
+Python ML
+  |
+Prediction
+  |
+Fan Control
+
+                ┌───────────────┐
+                │ Mosquitto     │
+                │ MQTT Broker   │
+                └───────┬───────┘
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+          ▼                           ▼
+     Node-RED                   Python ML
+          │                      Service
+          │                           │
+          ▼                           ▼
+ Dashboard                  Fan Prediction
+          │                           │
+          └─────────────┬─────────────┘
+                        ▼
+                   tunnel/control
+                        ▼
+                      ESP32
+                        ▼
+                     Exhaust Fan

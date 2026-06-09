@@ -1,0 +1,12 @@
+Accuracy: 1.0000
+
+                       precision    recall  f1-score   support
+
+       Chemical Vapor       1.00      1.00      1.00        40
+      Hazardous Smoke       1.00      1.00      1.00        50
+Increased Ventilation       1.00      1.00      1.00        50
+               Normal       1.00      1.00      1.00        60
+
+             accuracy                           1.00       200
+            macro avg       1.00      1.00      1.00       200
+         weighted avg       1.00      1.00      1.00       200

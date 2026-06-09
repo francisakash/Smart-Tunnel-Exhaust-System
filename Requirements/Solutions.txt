@@ -1,0 +1,6 @@
+Given current environmental conditions,
+what will the pollution level be in the next few minutes?
+
+Predicted Pollution
+
+Recommended Fan Speed

@@ -1,0 +1,32 @@
+A. Sensor data processing algorithm
+    1.Moving Average Filter
+    2.Kalman Filter (Advanced)
+    3.Sensor Calibration Algorithm
+B. Air Quality Estimation Algorithms
+    1.AQI Calculation
+    2.Pollutant Concentration Estimation
+C. Control Algorithms
+    1.PID Controller
+    2.PID Equation
+D. Threshold-Based Decision Algorithms
+E. Machine Learning / Predictive Algorithms
+
+******************************************************
+
+A1. implementing a rolling window that calculate the average of last N readings
+This smoothes out temporary spikes or high-frequency electronic noise from your gas or particulate sensor.
+The logged data can  be cleaned using using Python pandas before feeding it to the AI model.
+
+A2.The kalma filter is a mathematical algorithm that evaluates the exact state of the model.
+It works in two loop. It predicts the next state using the physics or trends the updates the predictionsn using actual noisy sensor readings.
+Kalma Filter is incredible in tracking fast-moving chnages in real time without lagging behind.
+In python-For predictive model/analysis we can use FilterPy or write a simple iterative loop to clean historical sensor data.
+In C/Arduino- For the deployment phase- we can run a lightweight Kalma filter library microcontroller so the PID controller.
+
+A3. sensor calibration algorithms is used to convert the raw voltage or analog readings coming from the sensor into actual meaningful physicL Units calles PPM.
+How it is calibrated:
+First we find the baseline calibration(Ro); read the dat in a clean environment to find the base resistance.
+curve fitting; find the ration of Rs/Ro 
+Environmental correction; use the sensor data from the DHT11 to adjust the (Rs/Ro) values. using look up tables and correction formulas.
+
+B1. these numbers turn these numbers into actionable intelligence. The AQI calculation algorithm scales various raw pollutant concentrations (like CO, $PM_{2.5}$, $NO_2$) into a single, standardized, easy-to-understand score.
